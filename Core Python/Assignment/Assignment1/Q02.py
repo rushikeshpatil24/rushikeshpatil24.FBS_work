@@ -1,5 +1,7 @@
 ### Write a program to calculate  area  of rectangle based on length and breadth
 
+# Take input for  length and breadth
+
 length = float(input('Enter Length:'))
 breadth = float(input('Enter Breadth:'))
 
