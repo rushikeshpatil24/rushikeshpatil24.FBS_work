@@ -1,15 +1,9 @@
 ### Find the area of circumference of circle.
 
-# Take input for Radiu.s
+radius = int(input('Enter Radius:'))
 
-r = int(input('Enter Radius:'))
-
-# Perform Operation.
-
-area = 3.14 * r ** 2
+area = 3.14 * radius ** 2
 circumference = 2 * 3.14 * 4
-
-# Display  Result
 
 print('Area of Circle is:',area)
 print('Circumference of Circle:',circumference)
