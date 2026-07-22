@@ -1,12 +1,23 @@
-## Write a program to check if given 3 digit number is Palindrome or not.
+## Write a program to check if given 3 digit number is Palindrome or not :
 
-num = int(input('Entre 3 digit Number:'))
+num = int(input("Enter Three Digit Number :"))
 
 temp = num
-first = num // 100
-last = num % 10
 
-if(first == last):
-    print(f'{num} is Palindrome')
+d1 = num % 10
+num = num // 10 
+
+d2 = num % 10
+num = num // 10 
+
+d3 = num % 10
+num = num // 10 
+
+Rev = d1*100+d2*10+d3
+
+print("Reverse of Three Digit No :",Rev)
+
+if ( temp == Rev ):
+    print("Number is Palindrome")
 else:
-    print(f'{num} is not Palindrome')
+    print("Number is Not Palindrome ")
