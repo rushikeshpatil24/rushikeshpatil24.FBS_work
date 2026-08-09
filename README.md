@@ -1,25 +1,54 @@
-# Hi, I'm Rushikesh 👋
+# Hi, I'm Rushikesh Patil 👋
 
-📊 Aspiring Data Analyst
+### 📊 Aspiring Data Analyst
 
-## About Me
-- 🔎 Interested in Data Analytics and Business Intelligence
-- 🐍 Learning Python for data analysis
-- 🗄️ Working with SQL
-- 📊 Building dashboards with Power BI and Tableau
-- 📈 Practicing Excel and data visualization
+I’m an aspiring Data Analyst passionate about turning raw data into
+meaningful insights and building data-driven solutions.
 
-## Skills
-Python | SQL | Excel | Power BI | Tableau | Pandas | NumPy
+- 🔭 Currently working on data analytics projects
+- 🌱 Learning advanced SQL, Python, Power BI and statistics
+- 📊 Interested in Data Analysis & Business Intelligence
+- 💼 Open to Data Analyst internship opportunities
 
-## Featured Projects
-- Sales Data Analysis
-- Customer Churn Analysis
-- E-commerce Dashboard
-- SQL Data Analysis
+---
 
-## Currently Learning
+## 🛠️ Skills
+
+### Programming & Data Analysis
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- SQL
+
+### Visualization & BI
+- Power BI
+- Tableau
+- Excel
+
+### Tools
+- Git & GitHub
+- Jupyter Notebook
+- VS Code
+
+---
+
+## 📚 Currently Learning
 - Advanced SQL
 - Power BI
-- Statistics
 - Data Visualization
+- Statistics for Data Analysis
+- Python for Data Analytics
+---
+## 🎯 Career Goal
+
+My goal is to start my career as a Data Analyst and use data
+to solve real-world business problems.
+
+---
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn: www.linkedin.com/in/rushikesh-patil-59790b427
+- 📧 Email: rushikeshpatil1417@gmail.com
+
